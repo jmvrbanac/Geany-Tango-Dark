@@ -1,8 +1,9 @@
-# Geany Tango Dark colour scheme
+# A fork of barryvan's Geany Tango Dark colour scheme
 This theme is a simple, Tango! palette-based colour scheme for Geany, with a dark base. The colours are loosely based on the Dark Geany project.
 
 Languages currently supported:
 
+ * Actionscript Contributed by (John Vrbanac)
  * Python (contributed by batisteo)
  * C
  * C++
